@@ -1,0 +1,9 @@
+# Changes here will be overwritten by Copier. Do not edit manually.
+_commit: v0.2.18
+_src_path: gh:jlevy/simple-modern-uv
+package_author_email: admin@h100.com.br
+package_author_name: abner G Jacobsen
+package_description: Snapture API server.
+package_github_org: snapby
+package_module: snapture_api
+package_name: snapture-api
